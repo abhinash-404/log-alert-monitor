@@ -27,7 +27,7 @@ It logs repeated failed login attempts within a configurable time window and can
 
 1. Clone the repository:
 
-	git clone https://github.com/abhinash-404/ssh-log-monitor.git
+	git clone https://github.com/abhinash-404/log-alert-monitor.git
 	cd ssh-log-monitor
 
 2. Make Sure SSH is Installed and Running:
